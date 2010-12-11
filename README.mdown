@@ -8,7 +8,7 @@ Adding DPConnectionState to your project
 To add DPConnectionState to your project open SampleProject.xcodeproj and drag the DPConnectionState Files from the Sample Project to your own project. This will add the DPConnectionState helper class and Reachability class into your project. Next add the SystemConfiguration framework. Now you are able to import the DPConnectionState.h file into your view controller, etc...
 
 License
-=======
+=============
 
 This code is distributed under the terms and conditions of the MIT license.
 
