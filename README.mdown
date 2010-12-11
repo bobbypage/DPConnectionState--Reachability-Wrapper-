@@ -4,7 +4,7 @@ DPConnectionState
 DPConnectionState is a iPhone drop-in class that makes working with Reachability much easier. Using DPConnectionState you can use two lines of code to detect if the user has internet connectivity. DPConnectionState is released under the MIT license (see below).
 
 
-![image](hhttp://imgur.com/BaKmY)
+![image](http://imgur.com/BaKmY)
 
 
 
