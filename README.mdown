@@ -13,7 +13,9 @@ After you have copied the needed files in your project you can begin working wit
 
 To use DPConnectionState import it into your header like this: #import "DPConnectionState.h"
 
-Now you can use DPConnectionState. Go into your header a add the DPConnectionDelegate if you wish to use it. For example: @interface SampleProjectViewController : UIViewController <DPConnectionStateDelegate> 
+Now you can use DPConnectionState. Go into your header and add the DPConnectionDelegate if you wish to use it. More on that below… For example: 
+
+@interface SampleProjectViewController : UIViewController <DPConnectionStateDelegate>  
 
 Also add a reference to DPConnection state in your header… like this: 
 
@@ -35,16 +37,21 @@ You can do something like this:
 
 - (void)doSomethingInternetRelated {
 if (currentConnectivity.isConnected) {
+
 //go ahead and continue with the task as the user is connected to the internet
+
 }
 else {
+
 //alert the user they are not connected to the internet
+
 }
 
 }
 
 
 DPConnectionState also has one delegate method: 
+
 - (void)connectivityStateDidChange;
 
 This is called if the user's state changes. (for example the user is first connected to 3G but loses internet connectivity. If you wish, you may use the delegate method.
