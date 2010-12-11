@@ -8,7 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "DPConnectionState.h"
-@interface SampleProjectViewController : UIViewController {
+@interface SampleProjectViewController : UIViewController <DPConnectionStateDelegate> {
 	DPConnectionState *currentConnectivity;
 }
 - (IBAction)pressButton:(id)sender;
