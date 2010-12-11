@@ -35,23 +35,23 @@ Now DPConnection is actively monitoring the user's connection to the internet.
 If you would like to check if the user is connected before a event you can check using the isConnected property. 
 
 You can do something like this:
-"`
-- (void)doSomethingInternetRelated {
 
-if (currentConnectivity.isConnected) {
+    - (void)doSomethingInternetRelated {
 
-        //go ahead and continue with the task as the user is connected to the internet
+    if (currentConnectivity.isConnected) {
 
-    }
-else {
-
-        //alert the user they are not connected to the internet
+    //go ahead and continue with the task as the user is connected to the internet
 
     }
+    else {
 
-}
+    //alert the user they are not connected to the internet
 
-`"
+    }
+
+    }
+
+
 DPConnectionState also has one delegate method: 
 
 `- (void)connectivityStateDidChange;`
