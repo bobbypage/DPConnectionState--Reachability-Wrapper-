@@ -11,22 +11,23 @@ Using DPConnectionState in your project
 ====================================
 After you have copied the needed files in your project you can begin working with DPConnectionState. (see above)
 
-To use DPConnectionState import it into your header like this: #import "DPConnectionState.h"
+To use DPConnectionState import it into your header like this: 
+`#import "DPConnectionState.h"`
 
 Now you can use DPConnectionState. Go into your header and add the DPConnectionDelegate if you wish to use it. More on that below… For example: 
 
-@interface SampleProjectViewController : UIViewController 
-<DPConnectionStateDelegate>  
+    @interface SampleProjectViewController : UIViewController 
+    <DPConnectionStateDelegate>  
 
 Also add a reference to DPConnection state in your header… like this: 
 
-DPConnectionState *currentConnectivity;
+`DPConnectionState *currentConnectivity;`
 
 In your implementation file using DPConnectionState is very simple. When you are ready to monitor the user's connection state to the internet do something like this:
 
-currentConnectivity = [[DPConnectionState alloc] init];
-currentConnectivity.delegate = self; //set the delegate (only if you want to use it, see below…)
-[currentConnectivity startMonitoringConnection]; //call this when you are ready for DPConnection state to monitor the connection
+    currentConnectivity = [[DPConnectionState alloc] init];
+    currentConnectivity.delegate = self; //set the delegate (only if you want to use it, see below…)
+    [currentConnectivity startMonitoringConnection]; //call this when you are ready for DPConnection state to monitor the connection
 
 You may want to do the above in your viewDidLoad or similar…
 
