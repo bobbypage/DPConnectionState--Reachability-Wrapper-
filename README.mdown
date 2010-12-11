@@ -5,8 +5,7 @@ DPConnectionState is a iPhone drop-in class that makes working with Reachability
 
 
 
-[![](http://imgur.com/87o7f.jpg)](http://imgur.com/87o7f.jpg)
-
+[IMG]http://i.imgur.com/87o7f.jpg[/IMG]
 
 
 Adding DPConnectionState to your project
