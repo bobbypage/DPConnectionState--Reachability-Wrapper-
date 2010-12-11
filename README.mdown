@@ -1,11 +1,54 @@
 DPConnectionState
 =============
 
-DPConnectionState is a drop that makes working with Reachability much easier. Using DPConnectionState you can use two lines of code to detect if the user has internet connectivity.
+DPConnectionState is a iPhone drop-in class that makes working with Reachability much easier. Using DPConnectionState you can use two lines of code to detect if the user has internet connectivity. DPConnectionState is released under the MIT license (see below).
 
 Adding DPConnectionState to your project
 ====================================
 To add DPConnectionState to your project open SampleProject.xcodeproj and drag the DPConnectionState Files from the Sample Project to your own project. This will add the DPConnectionState helper class and Reachability class into your project. Next add the SystemConfiguration framework. Now you are able to import the DPConnectionState.h file into your view controller, etc...
+
+Using DPConnectionState in your project 
+====================================
+After you have copied the needed files in your project you can begin working with DPConnectionState. (see above)
+
+To use DPConnectionState import it into your header like this: #import "DPConnectionState.h"
+
+Now you can use DPConnectionState. Go into your header a add the DPConnectionDelegate if you wish to use it. For example: @interface SampleProjectViewController : UIViewController <DPConnectionStateDelegate> 
+
+Also add a reference to DPConnection state in your header… like this: 
+
+DPConnectionState *currentConnectivity;
+
+In your implementation file using DPConnectionState is very simple. When you are ready to monitor the user's connection state to the internet do something like this:
+
+currentConnectivity = [[DPConnectionState alloc] init];
+currentConnectivity.delegate = self; //set the delegate (only if you want to use it, see below…)
+[currentConnectivity startMonitoringConnection]; //call this when you are ready for DPConnection state to monitor the connection
+
+You may want to do the above in your viewDidLoad or similar…
+
+Now DPConnection is actively monitoring the user's connection to the internet. 
+
+If you would like to check if the user is connected before a event you can check using the isConnected property. 
+
+You can do something like this:
+
+- (void)doSomethingInternetRelated {
+if (currentConnectivity.isConnected) {
+//go ahead and continue with the task as the user is connected to the internet
+}
+else {
+//alert the user they are not connected to the internet
+}
+
+}
+
+
+DPConnectionState also has one delegate method: 
+- (void)connectivityStateDidChange;
+
+This is called if the user's state changes. (for example the user is first connected to 3G but loses internet connectivity. If you wish, you may use the delegate method.
+
 
 License
 =============
