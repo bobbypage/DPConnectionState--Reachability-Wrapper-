@@ -252,6 +252,145 @@ t1292032506
 s368
 i<UIKit/UIKit.h>
 
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/Classes/Reachability.h
+c000000004C34EF790000000000000F1B
+t1278537593
+s3867
+i<Foundation/Foundation.h>
+i<SystemConfiguration/SystemConfiguration.h>
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/Classes/Reachability.m
+c000000004D02D8DC000000000000239B
+t1292032220
+s9115
+i<sys/socket.h>
+i<netinet/in.h>
+i<netinet6/in6.h>
+i<arpa/inet.h>
+i<ifaddrs.h>
+i<netdb.h>
+i<CoreFoundation/CoreFoundation.h>
+i"Reachability.h"
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/Classes/SampleProjectAppDelegate.h
+c000000004D02D9FA0000000000000204
+t1292032506
+s516
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/Classes/SampleProjectAppDelegate.m
+c000000004D02D9FA0000000000000AB4
+t1292032506
+s2740
+i"SampleProjectAppDelegate.h"
+i"SampleProjectViewController.h"
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/Classes/SampleProjectViewController.h
+c000000004D02DAD80000000000000169
+t1292032728
+s361
+i<UIKit/UIKit.h>
+i"DPConnectionState.h"
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/Classes/SampleProjectViewController.m
+c000000004D02E96900000000000009E7
+t1292036457
+s2535
+i"SampleProjectViewController.h"
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/DPConnectionState.h
+c000000004D02DA350000000000000272
+t1292032565
+s626
+i<Foundation/Foundation.h>
+i"Reachability.h"
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/DPConnectionState.m
+c000000004D02DA6000000000000006A4
+t1292032608
+s1700
+i"DPConnectionState.h"
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/MainWindow.xib
+c000000004D02D9FA0000000000004E71
+t1292032506
+s20081
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/SampleProjectViewController.xib
+c000000004D02DBE600000000000048A7
+t1292032998
+s18599
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/SampleProject_Prefix.pch
+c000000004D02D9FA00000000000000C3
+t1292032506
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/Debug-iphonesimulator/SampleProject.app
+t1292033021
+s238
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/Debug-iphonesimulator/SampleProject.app.dSYM
+t1292033021
+s102
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/Debug-iphonesimulator/SampleProject.app/Info.plist
+t1292032512
+s615
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/Debug-iphonesimulator/SampleProject.app/MainWindow.nib
+t1292032513
+s1135
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/Debug-iphonesimulator/SampleProject.app/PkgInfo
+t1292032512
+s8
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/Debug-iphonesimulator/SampleProject.app/SampleProject
+t1292033021
+s32112
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/Debug-iphonesimulator/SampleProject.app/SampleProjectViewController.nib
+t1292032999
+s1500
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/DPConnectionState.o
+t1292032648
+s16708
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/Reachability.o
+t1292032597
+s23196
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/SampleProject.LinkFileList
+c000000004D02DA55000000000000036F
+t1292032597
+s879
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/SampleProjectAppDelegate.o
+t1292032729
+s52064
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/SampleProjectViewController.o
+t1292033021
+s47848
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/main.o
+t1292032514
+s6388
+
+N/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/main.m
+c000000004D02D9FA0000000000000170
+t1292032506
+s368
+i<UIKit/UIKit.h>
+
+N/var/folders/18/18cbZ1mUFZ4Y5-Cxh4J99++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleProject_Prefix-ahiqstizcfnoahemjuscahclvlpe/SampleProject_Prefix.pch.gch
+t2
+s0
+
 N/var/folders/18/18cbZ1mUFZ4Y5-Cxh4J99++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleProject_Prefix-dvqpkgrdddftkudiqbcqhqbmuebv/SampleProject_Prefix.pch.pth
 t1292033035
 s2789248
@@ -322,6 +461,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@95"Compile /Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/DPConnectionState.m313725448#313725448#0(0"0(0#0#87"/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/DPConnectionState.m8653161760#2429"    cd "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_4.2_GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-generated-files.hmap" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-own-target-headers.hmap" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-all-target-headers.hmap" -iquote "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-project-headers.hmap" "-F/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/include" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/DerivedSources/i386" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/DerivedSources" -include /var/folders/18/18cbZ1mUFZ4Y5-Cxh4J99++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleProject_Prefix-girjfncniinnhwftvcychvfdgvzh/SampleProject_Prefix.pch -c "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/DPConnectionState.m" -o "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/DPConnectionState.o"0#
 
+CCompileC build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/DPConnectionState.o "/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/DPConnectionState.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/Reachability.o "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/Classes/Reachability.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s313725397.287808
 e313725397.408841
@@ -334,6 +476,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@98"Compile /Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/Classes/Reachability.m313725397#313725397#0(0"0(0#0#90"/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/Classes/Reachability.m8664132224#2427"    cd "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_4.2_GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-generated-files.hmap" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-own-target-headers.hmap" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-all-target-headers.hmap" -iquote "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-project-headers.hmap" "-F/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/include" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/DerivedSources/i386" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/DerivedSources" -include /var/folders/18/18cbZ1mUFZ4Y5-Cxh4J99++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleProject_Prefix-girjfncniinnhwftvcychvfdgvzh/SampleProject_Prefix.pch -c "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/Classes/Reachability.m" -o "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/Reachability.o"0#
+
+CCompileC build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/Reachability.o "/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/Classes/Reachability.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileC build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/SampleProjectAppDelegate.o "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/Classes/SampleProjectAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s313725529.008347
@@ -348,6 +493,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@110"Compile /Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/Classes/SampleProjectAppDelegate.m313725529#313725529#0(0"0(0#0#102"/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/Classes/SampleProjectAppDelegate.m8660277472#2451"    cd "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_4.2_GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-generated-files.hmap" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-own-target-headers.hmap" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-all-target-headers.hmap" -iquote "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-project-headers.hmap" "-F/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/include" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/DerivedSources/i386" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/DerivedSources" -include /var/folders/18/18cbZ1mUFZ4Y5-Cxh4J99++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleProject_Prefix-girjfncniinnhwftvcychvfdgvzh/SampleProject_Prefix.pch -c "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/Classes/SampleProjectAppDelegate.m" -o "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/SampleProjectAppDelegate.o"0#
 
+CCompileC build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/SampleProjectAppDelegate.o "/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/Classes/SampleProjectAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/SampleProjectViewController.o "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/Classes/SampleProjectViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s313725821.362408
 e313725821.567497
@@ -361,6 +509,9 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@113"Compile /Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/Classes/SampleProjectViewController.m313725821#313725821#0(0"0(0#0#105"/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/Classes/SampleProjectViewController.m8663675680#2457"    cd "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_4.2_GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-generated-files.hmap" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-own-target-headers.hmap" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-all-target-headers.hmap" -iquote "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-project-headers.hmap" "-F/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/include" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/DerivedSources/i386" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/DerivedSources" -include /var/folders/18/18cbZ1mUFZ4Y5-Cxh4J99++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleProject_Prefix-girjfncniinnhwftvcychvfdgvzh/SampleProject_Prefix.pch -c "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/Classes/SampleProjectViewController.m" -o "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/SampleProjectViewController.o"0#
 
+CCompileC build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/SampleProjectViewController.o "/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/Classes/SampleProjectViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
 CCompileC build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/main.o "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
 s313725314.468694
 e313725314.627087
@@ -373,6 +524,9 @@ xi386
 xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@82"Compile /Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/main.m313725314#313725314#0(0"0(0#0#74"/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/main.m8659546976#2403"    cd "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_4.2_GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-generated-files.hmap" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-own-target-headers.hmap" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-all-target-headers.hmap" -iquote "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/SampleProject-project-headers.hmap" "-F/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/include" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/DerivedSources/i386" "-I/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/DerivedSources" -include /var/folders/18/18cbZ1mUFZ4Y5-Cxh4J99++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleProject_Prefix-girjfncniinnhwftvcychvfdgvzh/SampleProject_Prefix.pch -c "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/main.m" -o "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/main.o"0#
+
+CCompileC build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/main.o "/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CCompileXIB "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/MainWindow.xib"
 s313725312.843536
@@ -390,6 +544,12 @@ xCompileXIB
 x/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/SampleProjectViewController.xib
 lSLF07#2@42"CompileXIB SampleProjectViewController.xib313725799#313725799#0(0"0(0#0#99"/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/SampleProjectViewController.xib8658518528#731"    cd "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_4.2_GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_4.2_GM/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app/SampleProjectViewController.nib" "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/SampleProjectViewController.xib" --sdk /Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
 
+CCompileXIB "/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/MainWindow.xib"
+r0
+
+CCompileXIB "/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/SampleProjectViewController.xib"
+r0
+
 CGenerateDSYMFile "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app.dSYM" "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app/SampleProject"
 s313725821.590631
 e313725821.605436
@@ -398,6 +558,9 @@ xGenerateDSYMFile
 x/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app.dSYM
 x/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app/SampleProject
 lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/SampleProject.app.dSYM build/Debug-iphonesimulator/SampleProject.app/SampleProject313725821#313725821#0(0"0(0#0#127"/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app/SampleProject8663102016#515"    cd "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject"    setenv PATH "/Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_4.2_GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_4.2_GM/usr/bin/dsymutil "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app/SampleProject" -o "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app.dSYM"0#
+
+CGenerateDSYMFile "/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/Debug-iphonesimulator/SampleProject.app.dSYM" "/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/Debug-iphonesimulator/SampleProject.app/SampleProject"
+r0
 
 CLd "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app/SampleProject" normal i386
 s313725821.567639
@@ -409,6 +572,9 @@ xnormal
 xi386
 lSLF07#2@132"Link /Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app/SampleProject313725821#313725821#0(0"0(0#0#0"8663872960#1144"    cd "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_4.2_GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator" "-F/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator" -filelist "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/SampleProject.build/Debug-iphonesimulator/SampleProject.build/Objects-normal/i386/SampleProject.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework SystemConfiguration -o "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app/SampleProject"0#
 
+CLd "/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/Debug-iphonesimulator/SampleProject.app/SampleProject" normal i386
+r0
+
 CProcessInfoPlistFile "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app/Info.plist" SampleProject-Info.plist
 s313725312.838857
 e313725312.843398
@@ -417,6 +583,12 @@ xProcessInfoPlistFile
 x/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app/Info.plist
 xSampleProject-Info.plist
 lSLF07#2@32"Process SampleProject-Info.plist313725312#313725312#0(0"0(0#0#92"/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/SampleProject-Info.plist8658163616#604"    cd "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject"    setenv PATH "/Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_4.2_GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility SampleProject-Info.plist -genpkginfo "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app/Info.plist"0#
+
+CProcessInfoPlistFile "/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/Debug-iphonesimulator/SampleProject.app/Info.plist" SampleProject-Info.plist
+r0
+
+CProcessPCH /var/folders/18/18cbZ1mUFZ4Y5-Cxh4J99++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleProject_Prefix-ahiqstizcfnoahemjuscahclvlpe/SampleProject_Prefix.pch.gch SampleProject_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
 
 CProcessPCH /var/folders/18/18cbZ1mUFZ4Y5-Cxh4J99++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/SampleProject_Prefix-dvqpkgrdddftkudiqbcqhqbmuebv/SampleProject_Prefix.pch.pth SampleProject_Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.analyzer
 s313725835.648749
@@ -451,4 +623,7 @@ r1
 xTouch
 x/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app
 lSLF07#2@119"Touch /Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app313725821#313725821#0(0"0(0#0#0"8662131808#360"    cd "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject"    setenv PATH "/Developer_4.2_GM/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer_4.2_GM/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/build/Debug-iphonesimulator/SampleProject.app"0#
+
+CTouch "/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/build/Debug-iphonesimulator/SampleProject.app"
+r0
 

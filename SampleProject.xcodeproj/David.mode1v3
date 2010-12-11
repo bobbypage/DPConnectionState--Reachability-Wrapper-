@@ -274,6 +274,7 @@
 							<key>PBXSmartGroupTreeModuleOutlineStateSelectionKey</key>
 							<array>
 								<array>
+									<integer>1</integer>
 									<integer>0</integer>
 								</array>
 							</array>
@@ -332,14 +333,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 0}, {580, 277}}</string>
+								<string>{{0, 0}, {580, 260}}</string>
 								<key>RubberWindowFrame</key>
 								<string>112 565 788 504 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>PBXNavigatorGroup</string>
 							<key>Proportion</key>
-							<string>277pt</string>
+							<string>260pt</string>
 						</dict>
 						<dict>
 							<key>ContentConfiguration</key>
@@ -352,14 +353,14 @@
 							<key>GeometryConfiguration</key>
 							<dict>
 								<key>Frame</key>
-								<string>{{0, 282}, {580, 181}}</string>
+								<string>{{0, 265}, {580, 198}}</string>
 								<key>RubberWindowFrame</key>
 								<string>112 565 788 504 0 0 2560 1418 </string>
 							</dict>
 							<key>Module</key>
 							<string>XCDetailModule</string>
 							<key>Proportion</key>
-							<string>181pt</string>
+							<string>198pt</string>
 						</dict>
 					</array>
 					<key>Proportion</key>
@@ -378,9 +379,9 @@
 			</array>
 			<key>TableOfContents</key>
 			<array>
-				<string>63FFF1EB12B3118600D25767</string>
+				<string>63E8C5CE12B350D20009B000</string>
 				<string>1CE0B1FE06471DED0097A5F4</string>
-				<string>63FFF1EC12B3118600D25767</string>
+				<string>63E8C5CF12B350D20009B000</string>
 				<string>1CE0B20306471E060097A5F4</string>
 				<string>1CE0B20506471E060097A5F4</string>
 			</array>
@@ -519,7 +520,7 @@
 	<key>WindowOrderList</key>
 	<array>
 		<string>63FFF1EE12B3118600D25767</string>
-		<string>/Users/David/Documents/iPhone Apps /DPConnectionState/SampleProject/SampleProject.xcodeproj</string>
+		<string>/Users/David/Documents/iPhone Apps /DPConnectionState_Fork/SampleProject/SampleProject.xcodeproj</string>
 	</array>
 	<key>WindowString</key>
 	<string>112 565 788 504 0 0 2560 1418 </string>
@@ -599,7 +600,7 @@
 			<key>TableOfContents</key>
 			<array>
 				<string>63FFF1EE12B3118600D25767</string>
-				<string>63FFF1EF12B3118600D25767</string>
+				<string>63E8C5D012B350D20009B000</string>
 				<string>1CD0528F0623707200166675</string>
 				<string>XCMainBuildResultsModuleGUID</string>
 			</array>
