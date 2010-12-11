@@ -1,4 +1,4 @@
-DPConnectionState
+moDPConnectionState
 =============
 
 DPConnectionState is a iPhone drop-in class that makes working with Reachability much easier. Using DPConnectionState you can use two lines of code to detect if the user has internet connectivity. DPConnectionState is released under the MIT license (see below).
@@ -15,7 +15,8 @@ To use DPConnectionState import it into your header like this: #import "DPConnec
 
 Now you can use DPConnectionState. Go into your header and add the DPConnectionDelegate if you wish to use it. More on that below… For example: 
 
-@interface SampleProjectViewController : UIViewController <DPConnectionStateDelegate>  
+@interface SampleProjectViewController : UIViewController 
+<DPConnectionStateDelegate>  
 
 Also add a reference to DPConnection state in your header… like this: 
 
@@ -36,16 +37,17 @@ If you would like to check if the user is connected before a event you can check
 You can do something like this:
 
 - (void)doSomethingInternetRelated {
+
 if (currentConnectivity.isConnected) {
 
-//go ahead and continue with the task as the user is connected to the internet
+        //go ahead and continue with the task as the user is connected to the internet
 
-}
+    }
 else {
 
-//alert the user they are not connected to the internet
+        //alert the user they are not connected to the internet
 
-}
+    }
 
 }
 
