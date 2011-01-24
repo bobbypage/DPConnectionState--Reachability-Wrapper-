@@ -5,3 +5,7 @@ build/
 *.mode1v3
 **/*.perspectivev*
 *.testIgnore
+
+/build
+**/*.pbxuser
+**/*.pbxuser
