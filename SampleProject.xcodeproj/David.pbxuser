@@ -2,9 +2,9 @@
 {
 	1D3623250D0F684500981E51 /* SampleProjectAppDelegate.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1965, 1040}}";
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1014}}";
 			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 2187}";
+			sepNavVisRange = "{0, 329}";
 		};
 	};
 	1D6058900D05DD3D006BFB54 /* SampleProject */ = {
@@ -13,17 +13,24 @@
 			63FFF1E512B3117A00D25767 /* SampleProject */,
 		);
 	};
+	28D7ACF60DDB3853001CB0EB /* SampleProjectViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {653, 316}}";
+			sepNavSelRange = "{159, 2}";
+			sepNavVisRange = "{0, 389}";
+		};
+	};
 	28D7ACF70DDB3853001CB0EB /* SampleProjectViewController.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {1523, 845}}";
-			sepNavSelRange = "{60, 0}";
-			sepNavVisRange = "{0, 1449}";
+			sepNavIntBoundsRect = "{{0, 0}, {922, 1261}}";
+			sepNavSelRange = "{160, 0}";
+			sepNavVisRange = "{0, 670}";
 		};
 	};
 	29B97313FDCFA39411CA2CEA /* Project object */ = {
 		activeBuildConfigurationName = Debug;
 		activeExecutable = 63FFF1E512B3117A00D25767 /* SampleProject */;
-		activeSDKPreference = iphonesimulator4.2;
+		activeSDKPreference = iphonesimulator4.3;
 		activeTarget = 1D6058900D05DD3D006BFB54 /* SampleProject */;
 		addToTargets = (
 			1D6058900D05DD3D006BFB54 /* SampleProject */,
@@ -38,7 +45,7 @@
 				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
 				PBXFileTableDataSourceColumnWidthsKey = (
 					20,
-					341,
+					475,
 					20,
 					48,
 					43,
@@ -55,12 +62,47 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
-			PBXPerProjectTemplateStateSaveDate = 313741519;
-			PBXWorkspaceStateSaveDate = 313741519;
+			PBXPerProjectTemplateStateSaveDate = 317350804;
+			PBXWorkspaceStateSaveDate = 317350804;
+		};
+		perUserProjectItems = {
+			63160D5612EA638100D0F8E3 /* PBXTextBookmark */ = 63160D5612EA638100D0F8E3 /* PBXTextBookmark */;
+			63160D5812EA638100D0F8E3 /* PBXTextBookmark */ = 63160D5812EA638100D0F8E3 /* PBXTextBookmark */;
+			63E80D1112EA641600F65718 /* PBXTextBookmark */ = 63E80D1112EA641600F65718 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 63FFF1F012B3118600D25767 /* Source Control */;
 		userBuildSettings = {
 		};
+	};
+	63160D5612EA638100D0F8E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* SampleProjectViewController.h */;
+		name = "SampleProjectViewController.h: 7";
+		rLen = 2;
+		rLoc = 159;
+		rType = 0;
+		vrLen = 389;
+		vrLoc = 0;
+	};
+	63160D5812EA638100D0F8E3 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SampleProjectViewController.m */;
+		name = "SampleProjectViewController.m: 5";
+		rLen = 0;
+		rLoc = 60;
+		rType = 0;
+		vrLen = 759;
+		vrLoc = 0;
+	};
+	63E80D1112EA641600F65718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* SampleProjectViewController.m */;
+		name = "SampleProjectViewController.m: 7";
+		rLen = 0;
+		rLoc = 160;
+		rType = 0;
+		vrLen = 670;
+		vrLoc = 0;
 	};
 	63FFF1E512B3117A00D25767 /* SampleProject */ = {
 		isa = PBXExecutable;
